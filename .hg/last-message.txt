@@ -1,0 +1,1 @@
+Removed project 'HermitLibrary' from repository.
